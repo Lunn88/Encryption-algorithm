@@ -1,0 +1,31 @@
+﻿  main.cpp
+D:\vcpkg\installed\x64-windows\include\gmp.h(1785,19): warning C4244: 'return': conversion from 'mp_limb_t' to 'unsigned long', possible loss of data
+D:\vcpkg\installed\x64-windows\include\gmp.h(2230,16): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(101,26): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(155,6): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(206,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(278,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(322,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(330,26): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(372,37): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(407,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(414,24): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(442,36): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(525,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(570,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(599,19): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(667,13): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(720,20): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(764,19): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(774,16): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1292,10): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1593,12): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1617,10): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+RSA.obj : error LNK2005: "class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> __cdecl RSA_Decrypt(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>)" (?RSA_Decrypt@@YA?AV?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@00@Z) already defined in main.obj
+RSA.obj : error LNK2005: "class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> __cdecl RSA_Encrypt(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>)" (?RSA_Encrypt@@YA?AV?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@00@Z) already defined in main.obj
+RSA.obj : error LNK2005: "struct std::pair<class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> > __cdecl extended_euclidean(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>)" (?extended_euclidean@@YA?AU?$pair@V?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@@std@@V?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@0@Z) already defined in main.obj
+RSA.obj : error LNK2005: "struct std::pair<class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> > __cdecl gen_prime(struct __gmp_randstate_struct * const)" (?gen_prime@@YA?AU?$pair@V?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@@std@@QEAU__gmp_randstate_struct@@@Z) already defined in main.obj
+RSA.obj : error LNK2005: "bool __cdecl miller_rabin_test(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,int)" (?miller_rabin_test@@YA_NV?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@H@Z) already defined in main.obj
+RSA.obj : error LNK2005: "class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> __cdecl quick_mul(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>)" (?quick_mul@@YA?AV?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@00@Z) already defined in main.obj
+RSA.obj : error LNK2005: "class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]> __cdecl quick_pow(class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>,class __gmp_expr<struct __mpz_struct [1],struct __mpz_struct [1]>)" (?quick_pow@@YA?AV?$__gmp_expr@$$BY00U__mpz_struct@@$$BY00U1@@@V1@00@Z) already defined in main.obj
+D:\Visual Studio 2022 project\RSA\x64\Debug\RSA.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,6 @@
+﻿  AES.cpp
+D:\Visual Studio 2022 project\AES\AES\AES.cpp(204,41): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio 2022 project\AES\AES\AES.cpp(234,43): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Visual Studio 2022 project\AES\AES\AES.cpp(198): warning C4715: 'shiftRow': not all control paths return a value
+D:\Visual Studio 2022 project\AES\AES\AES.cpp(228): warning C4715: 'unShiftRow': not all control paths return a value
+  AES.vcxproj -> D:\Visual Studio 2022 project\AES\x64\Debug\AES.exe

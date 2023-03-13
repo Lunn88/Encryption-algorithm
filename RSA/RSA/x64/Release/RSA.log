@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\vcpkg\installed\x64-windows\include\gmp.h(1785,19): warning C4244: “return”: 从“mp_limb_t”转换到“unsigned long”，可能丢失数据
+D:\vcpkg\installed\x64-windows\include\gmp.h(2230,16): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(101,26): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(155,6): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(206,24): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(278,24): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(322,24): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(330,26): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(372,37): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(407,24): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(414,24): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(442,36): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(525,20): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(570,20): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(599,19): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(667,13): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(720,20): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(764,19): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(774,16): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1292,10): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1593,12): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\vcpkg\installed\x64-windows\include\gmpxx.h(1617,10): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 main
+D:\Visual Studio 2022 project\RSA\x64\Release\RSA.exe : fatal error LNK1120: 1 个无法解析的外部命令

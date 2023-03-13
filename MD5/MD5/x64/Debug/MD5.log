@@ -1,0 +1,8 @@
+﻿  MD5.cpp
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(78,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(125,9): warning C4101: 'k': unreferenced local variable
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(139,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(183,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(187,18): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Visual Studio 2022 project\MD5\MD5\MD5.cpp(207,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MD5.vcxproj -> D:\Visual Studio 2022 project\MD5\x64\Debug\MD5.exe

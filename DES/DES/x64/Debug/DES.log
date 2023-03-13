@@ -1,0 +1,7 @@
+﻿  DES.cpp
+D:\Visual Studio 2022 project\DES\DES\DES.cpp(30,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio 2022 project\DES\DES\DES.cpp(46,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio 2022 project\DES\DES\DES.cpp(50,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\Visual Studio 2022 project\DES\DES\DES.cpp(73,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio 2022 project\DES\DES\DES.cpp(102,28): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  DES.vcxproj -> D:\Visual Studio 2022 project\DES\x64\Debug\DES.exe
